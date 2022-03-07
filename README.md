@@ -1,11 +1,11 @@
 ##GCP lab 1 - dataflow streaming pipeline:
 
 ### Sending data:
-#### python env
-virtualenv lab1
-source lab1/bin/activate 
+#### python env 
 
-
+````
+pip3 install -r requirements.txt
+````
 ### Up and running the pipeline
 ````
 mvn install
