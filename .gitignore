@@ -1,4 +1,6 @@
 .python-version
 
 /lab1
-
+**/target
+**/init_env.sh
+**/.idea
